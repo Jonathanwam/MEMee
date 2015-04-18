@@ -1,0 +1,1 @@
+Files do not include Android related files or launcher, only the source code for the game itself.
